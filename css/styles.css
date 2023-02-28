@@ -20,9 +20,8 @@ body{
     margin: 0;
 }
 
-.middle-description{
-    width: 30%;
-    margin: auto;
+.miming-link:hover{
+    color: #071717;
 }
 
 hr{
@@ -36,6 +35,13 @@ hr{
 
 .middle-container{
     margin: 0;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.middle-description{
+    width: 30%;
+    margin: auto;
 }
 
 .bottom-container{
@@ -108,11 +114,11 @@ a{
 }
 
 .skills-img{
-    height: 35px;
-    width: 35px;
+    height: 2.1875rem;
+    width: 2.1875rem;
     position: relative;
-    bottom: 80px;
-    left:120px;
+    bottom: 85px;
+    left:100px;
 }
 
 .skill-row{
@@ -123,16 +129,20 @@ a{
 }
 
 .web-design-img{
-    width: 25%;
+    width: 12.5rem;
     float: left;
     margin-right: 30px;
     border-radius: 100%;
 }
 
 .chillies-img{
-    width: 25%;
+    width: 12.5rem;
     float: right;
-    margin-left: 30px;
+    margin-left: 10px;
+}
+
+.eating{
+    margin-top: 180px;
 }
 
 .footer-link{
@@ -142,8 +152,13 @@ a{
     margin-right: 10px;
 }
 
+.footer-link:hover{
+    color: #c9f4f4;
+}
+
 .copyright{
     color: #EAF6F6;
+    font-size: 1rem;
 }
 
 .contact-me{
