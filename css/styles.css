@@ -145,6 +145,10 @@ a{
     margin-top: 180px;
 }
 
+.rickroll:hover{
+    color: 	#000000;
+}
+
 .footer-link{
     color: #197174;
     text-decoration: none;
